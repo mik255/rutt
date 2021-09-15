@@ -1,8 +1,8 @@
 # rutt
 
 projeto feito para um desafio técnico.
-neste projeto foi ultilizado a arquitetura limpa com modular gerenciamento das rotas e injeções
-e triple para os controllers e gerenciamento de estatos das views
+Neste projeto foi ultilizado a arquitetura limpa, modular para gerenciamento das rotas e injeções,
+triple para os controllers e gerenciamento de estatos das views.
 
 ## Getting Started
 
