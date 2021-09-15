@@ -1,7 +1,7 @@
 # rutt
 
 projeto feito para um desafio técnico.
-Neste projeto foi ultilizado a arquitetura limpa, modular para gerenciamento das rotas e injeções,
+Neste projeto foi ultilizado a arquitetura limpa e Test Driven Development, modular para gerenciamento das rotas e injeções,
 triple para os controllers e gerenciamento de estatos das views.
 
 ## Getting Started
