@@ -1,0 +1,21 @@
+
+
+{
+  "id": "3",
+  "driverId": "2",
+  "origemModel": {
+    "latitude": 0,
+    "longetude": 0,
+    "address": "andress..."
+  },
+  "destinyModel": {
+    "latitude": 0,
+    "longetude": 0,
+    "address": "andress..."
+  },
+  "van": {
+    "id": "1",
+    "line": 5,
+    "coll": 4
+  }
+}
